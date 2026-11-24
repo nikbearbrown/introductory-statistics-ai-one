@@ -4,6 +4,16 @@
 
 Follow a result from its question through its denominators, measurements and assumptions. An estimate can be arithmetically right and still unusable for the decision. The recurring examples use invented bus-arrival records; they are not observations or recommendations about a real transit system.
 
+## Learning outcomes
+
+After working through this draft, readers should be able to:
+
+- Identify what a dataset can represent and summarize it with appropriate denominators, displays, and measures.
+- Explain what sampling variation and assumptions mean for an inference.
+- Distinguish an observed relationship from a causal claim and defend a conclusion with checked evidence.
+
+## Chapters
+
 1. [Ask what the data can represent](chapters/01-representation.md)
 2. [Summarize without hiding variation](chapters/02-description.md)
 3. [Use sampling variation](chapters/03-sampling-variation.md)
