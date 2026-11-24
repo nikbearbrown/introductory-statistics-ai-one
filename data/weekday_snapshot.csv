@@ -1,0 +1,13 @@
+trip_id,period,status,delay_min
+P01,peak,observed,3
+P02,peak,observed,5
+P03,peak,observed,9
+P04,peak,observed,10
+P05,peak,observed,4
+P06,peak,observed,7
+P07,peak,cancelled,
+P08,peak,sensor_missing,
+O01,offpeak,observed,1
+O02,offpeak,observed,2
+O03,offpeak,observed,2
+O04,offpeak,observed,6

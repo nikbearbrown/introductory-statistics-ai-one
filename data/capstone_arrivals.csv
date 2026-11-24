@@ -1,0 +1,17 @@
+trip_id,period,routing_version,status,delay_min,load_index
+T01,early,standard,observed,1,0
+T02,early,standard,observed,3,1
+T03,early,standard,observed,2,1
+T04,early,standard,observed,5,2
+T05,early,standard,observed,4,2
+T06,early,standard,observed,7,3
+T07,early,standard,observed,5,3
+T08,early,standard,cancelled,,
+T09,late,trial,observed,4,1
+T10,late,trial,observed,6,2
+T11,late,trial,observed,5,2
+T12,late,trial,observed,8,3
+T13,late,trial,observed,6,3
+T14,late,trial,observed,9,4
+T15,late,trial,observed,20,4
+T16,late,trial,sensor_missing,,
